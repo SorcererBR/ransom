@@ -1,0 +1,7 @@
+# Ignore generated folders
+__pycache__
+build
+dist
+mykey.key
+*.spec
+.git
